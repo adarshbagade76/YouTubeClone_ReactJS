@@ -5,7 +5,7 @@ import { Box,CardContent,cardContent,CardMedia,cardMedia,Typography } from '@mui
  import { demoProfilePicture } from '../utils/Constants'
 
 const ChannelCard = ({channelDetail,marginTop}) => {
-  // console.log(channelDetail)
+   console.log(channelDetail)
   return (
 
      //Display api data in card 
